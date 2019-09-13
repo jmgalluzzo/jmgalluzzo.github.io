@@ -1,5 +1,5 @@
 body {background-color: #E0FFFF;}
 
-#navbuttons { width: 800px }
+#navbuttons { width: 1000px; margin-top: 3px;}
 
-#button { width: 180px; text-align: center; }
+#button { width: 220px; height: 15px; text-align: center; }
