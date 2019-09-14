@@ -1,6 +1,10 @@
 body {background-color: #E0FFFF;}
 
-#navbuttons { width: 1000px; margin-top: 3px;}
+#navbuttons { width: 1000px; margin-top: 3px; 
+              margin-left: auto;
+             margin-right: auto;
+             width: 50%; 
+}
 
 .button { width: 220px; height: 15px; text-align: center; }
 
@@ -10,4 +14,11 @@ h1 { color: #1e2045;
 
 p { color: #1e2045;
   text-align: center;
+}
+
+#bannerimg { align: center;
+             display: block;
+             margin-left: auto;
+             margin-right: auto;
+             width: 50%;
 }
