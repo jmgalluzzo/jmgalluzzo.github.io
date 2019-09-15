@@ -31,7 +31,9 @@ p { color: #1e2045;
              width: 800px;
 }
 
-.para_div { display: inline-block;
-            width: 800px;
-            align: center;
+.para_div { align: center;
+             display: block;
+             margin-left: auto;
+             margin-right: auto;
+             width: 800px;
 }
