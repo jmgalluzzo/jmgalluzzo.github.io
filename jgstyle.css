@@ -30,3 +30,7 @@ p { color: #1e2045;
              margin-right: auto;
              width: 800px;
 }
+
+.para_div { align: center;
+            width: 800px;
+}
