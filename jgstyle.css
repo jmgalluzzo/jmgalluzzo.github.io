@@ -1,4 +1,6 @@
-body {background-color: #E0FFFF;}
+body {background-color: #E0FFFF;
+      background image: url("bluebackground.jpg");
+}
 
 #navbuttons { width: 1000px; margin-top: 3px; 
               margin-left: auto;
@@ -7,6 +9,9 @@ body {background-color: #E0FFFF;}
 }
 
 .button { width: 220px; height: 15px; text-align: center; }
+
+#background {
+  float
 
 h1 { color: #1e2045;
   text-align: center;
