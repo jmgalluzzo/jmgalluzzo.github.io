@@ -31,6 +31,6 @@ p { color: #1e2045;
              width: 800px;
 }
 
-.para_div { align: center;
+.para_div { display: inline-block;
             width: 800px;
 }
