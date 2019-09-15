@@ -1,5 +1,6 @@
 body {background-color: #E0FFFF;
       background image: url("bluebackground.jpg");
+      align: center;
 }
 
 #navbuttons { width: 1000px; margin-top: 3px; 
@@ -8,10 +9,10 @@ body {background-color: #E0FFFF;
              width: 800px; 
 }
 
-.button { width: 220px; height: 15px; text-align: center; }
-
-#background {
-  float
+.button { width: 220px; 
+      height: 15px; 
+      text-align: center; 
+}
 
 h1 { color: #1e2045;
   text-align: center;
