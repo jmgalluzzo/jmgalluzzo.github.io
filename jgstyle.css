@@ -37,3 +37,14 @@ p { color: #1e2045;
              margin-right: auto;
              width: 800px;
 }
+
+#lax { width: 300px;
+      float: left;
+      margin-right: auto;
+}
+
+#photography { width: 300px;
+      float: right;
+      margin-left: auto;
+}
+      
