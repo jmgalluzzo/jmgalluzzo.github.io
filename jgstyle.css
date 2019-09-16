@@ -54,15 +54,15 @@ p { color: #1e2045;
 
 #paris { display: block;
       width: 300px;
-      float: left;
-      margin-right: auto;
-      margin-left: 10px;
+      float: right;
+      margin-right: 10px;
+      margin-left: auto;
       margin-top: 20px;
 }
 
 #wakeboard { display: block;
       width: 300px;
-      float: right;
+      float: left;
       margin-right: auto;
       margin-left: 10px;
       margin-top: 20px;
