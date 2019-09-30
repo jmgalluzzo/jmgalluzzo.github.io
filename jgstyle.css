@@ -69,3 +69,19 @@ p { color: #1e2045;
       margin-top: 20px;
       margin-bottom: 20px;
 }
+
+.bitHeads { color: #1e2045;
+  text-align: center;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.bitShots { display: block;
+            align: center;
+            width: 500px;
+            margin-right: auto;
+            margin-left: auto;
+            margin-top: 20px;
+            margin-bottom: 20px;
+}
+                 
+                  
