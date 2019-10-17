@@ -78,6 +78,8 @@ p { color: #1e2045;
 .bitShots { display: block;
             align: center;
             width: 400px;
+            margin-left: 400px;
+            margin-right: 400px;
             margin-top: 20px;
             margin-bottom: 20px;
 }
