@@ -38,8 +38,11 @@ p { color: #1e2045;
              width: 800px;
 }
 
-.BitDescriptions { font-style: normal;
-                   font-size: 16px;
+.BitDescriptions { color: #1e2045;
+                  text-align: center;
+                  font-family: Tahoma, Geneva, sans-serif;      
+                  font-style: normal;
+                  font-size: 16px;
       
 } 
 
