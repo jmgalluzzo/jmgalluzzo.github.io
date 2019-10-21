@@ -38,6 +38,11 @@ p { color: #1e2045;
              width: 800px;
 }
 
+.BitDescriptions { font-style: normal;
+                   font-size: 16px;
+      
+} 
+
 #lax { display: block;
       width: 300px;
       float: left;
@@ -84,4 +89,6 @@ p { color: #1e2045;
             margin-bottom: 20px;
 }
                  
+
+
                   
